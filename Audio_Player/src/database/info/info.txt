@@ -1,0 +1,4 @@
+'七里香.wav' '七里香' '周杰伦' '七里香' '1:00' 'localhost'
+'True Love.wav' 'True Love' '藤井フミヤ' 'あるなろ白書' '4:35' 'localhost'
+'If I Were A Boy.wav' 'If I Were A Boy' 'Beyoncé' 'I Am... Sasha Fierce' '20:00' 'localhost'
+'桜流し.wav' '桜流し' '宇多田ヒカル' 'Fantomé' '2' 'localhost'
